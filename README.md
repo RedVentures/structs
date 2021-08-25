@@ -1,3 +1,7 @@
+# Volt Structs Package
+
+This is a fork of the [fatih/structs](https://github.com/fatih/structs) as the original maintainer is on an indefinate sabbatical as outlined below. README is left intact for context and instruction on how to use.
+
 # Archived project. No maintenance. 
 
 This project is not maintained anymore and is archived. Feel free to fork and
